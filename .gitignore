@@ -1,0 +1,11 @@
+output/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
